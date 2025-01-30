@@ -1,5 +1,4 @@
 # flightGenerator
-__________________
 
 ### Author
 
@@ -13,6 +12,6 @@ A basic random message generator that was done for a Codecademy project. It genr
 
 To run this project, install it locally using node and the file location:
 
-$ cd ../folder
+```$ cd ../folder```
 
-$ node script.js
+```$ node script.js```
