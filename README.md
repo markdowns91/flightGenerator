@@ -6,7 +6,7 @@
 
 ### Project Description
 
-A basic random message generator that was done for a Codecademy project. It genrates a random flight by choosing a departure, destination, and seat class, then prints your flight info to the console.
+A basic random message generator that was done for a Codecademy project. It genrates a random flight by choosing a departure, destination, and seat class, then logs your flight info to the console.
 
 ### Setup
 
